@@ -45,6 +45,8 @@
 		1F3E817B256B03D500932FBE /* HelloWorldIOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldIOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F3E817F256B03D500932FBE /* HelloWorldIOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldIOSUITests.swift; sourceTree = "<group>"; };
 		1F3E8181256B03D500932FBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FC2654027D61B890058FFF0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		1FC2654127D61B900058FFF0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,8 @@
 		1F3E8156256B03D400932FBE = {
 			isa = PBXGroup;
 			children = (
+				1FC2654027D61B890058FFF0 /* LICENSE */,
+				1FC2654127D61B900058FFF0 /* README.md */,
 				1F3E8161256B03D400932FBE /* HelloWorldIOS */,
 				1F3E8173256B03D500932FBE /* HelloWorldIOSTests */,
 				1F3E817E256B03D500932FBE /* HelloWorldIOSUITests */,
